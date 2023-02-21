@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/TestUser.dir/tests/TestUser.cpp.o  -o TestUser   -L/home/akm009/Desktop/BusBooking/App/include  -Wl,-rpath,/home/akm009/Desktop/BusBooking/App/include -lUnitTest++ libUser.a 

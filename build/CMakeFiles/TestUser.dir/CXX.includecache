@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MockUserClass.h
+UserClass.h
+../include/UserClass.h
+
+../include/UserClass.h
+iostream
+-
+map
+-
+vector
+-
+
+/home/akm009/Desktop/BusBooking/App/tests/TestUser.cpp
+memory
+-
+UnitTest++/UnitTest++.h
+-
+MockUserClass.h
+/home/akm009/Desktop/BusBooking/App/tests/MockUserClass.h
+

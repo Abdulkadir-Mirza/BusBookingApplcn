@@ -1,0 +1,2 @@
+/usr/bin/ar qc libVendor.a  CMakeFiles/Vendor.dir/src/VendorClass.cpp.o
+/usr/bin/ranlib libVendor.a

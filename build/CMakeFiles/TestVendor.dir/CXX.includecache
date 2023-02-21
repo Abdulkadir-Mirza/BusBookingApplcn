@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MockVendorClass.h
+VendorClass.h
+../include/VendorClass.h
+
+../include/VendorClass.h
+iostream
+-
+map
+-
+
+/home/akm009/Desktop/BusBooking/App/tests/TestVendor.cpp
+memory
+-
+UnitTest++/UnitTest++.h
+-
+MockVendorClass.h
+/home/akm009/Desktop/BusBooking/App/tests/MockVendorClass.h
+

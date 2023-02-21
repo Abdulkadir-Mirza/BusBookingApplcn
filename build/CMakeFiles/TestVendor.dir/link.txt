@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/TestVendor.dir/tests/TestVendor.cpp.o  -o TestVendor   -L/home/akm009/Desktop/BusBooking/App/include  -Wl,-rpath,/home/akm009/Desktop/BusBooking/App/include -lUnitTest++ libVendor.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUser.a  CMakeFiles/User.dir/src/UserClass.cpp.o
+/usr/bin/ranlib libUser.a

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/BusAPP.dir/main.cpp.o  -o BusAPP   -L/home/akm009/Desktop/BusBooking/App/include  -Wl,-rpath,/home/akm009/Desktop/BusBooking/App/include libReservation.a libUser.a libVendor.a 

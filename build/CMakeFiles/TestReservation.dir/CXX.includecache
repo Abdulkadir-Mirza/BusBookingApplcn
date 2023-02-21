@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/MockReservationClass.h
+ReservationClass.h
+../include/ReservationClass.h
+
+../include/ReservationClass.h
+iostream
+-
+UserClass.h
+../include/UserClass.h
+VendorClass.h
+../include/VendorClass.h
+
+../include/UserClass.h
+iostream
+-
+map
+-
+vector
+-
+
+../include/VendorClass.h
+iostream
+-
+map
+-
+
+/home/akm009/Desktop/BusBooking/App/tests/TestReservation.cpp
+memory
+-
+UnitTest++/UnitTest++.h
+-
+MockReservationClass.h
+/home/akm009/Desktop/BusBooking/App/tests/MockReservationClass.h
+

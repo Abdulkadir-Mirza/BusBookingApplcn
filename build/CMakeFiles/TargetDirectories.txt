@@ -1,0 +1,10 @@
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/rebuild_cache.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/edit_cache.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/BusAPP.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/TestReservation.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/TestVendor.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/TestUser.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/Reservation.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/Vendor.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/User.dir
+/home/akm009/Desktop/BusBooking/App/build/CMakeFiles/format-source.dir

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/UserClass.h
+iostream
+-
+map
+-
+vector
+-
+
+/home/akm009/Desktop/BusBooking/App/src/UserClass.cpp
+fstream
+-
+exception
+-
+UserClass.h
+/home/akm009/Desktop/BusBooking/App/src/UserClass.h
+
